@@ -20,4 +20,5 @@ Time Series Analysis: Use historical sales data to forecast sales for the upcomi
 Strategic Recommendations: Provide insights and actionable information that align with the store's goals of growth, operational efficiency, and customer satisfaction.
 
 **Project Benefits**
+
 With data-driven insights and predictive analytics, this project empowers stakeholders to refine strategies, optimize inventory, and improve service quality, contributing to the store’s overall success.
