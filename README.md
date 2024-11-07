@@ -7,7 +7,6 @@ The Super Store Sales Project aims to enhance business success through data anal
 **Key Objectives**
 
 1. Dashboard Creation
-   
 KPI Identification: Identify the key performance indicators (KPIs) crucial for tracking store performance.
 Dashboard Design: Develop a user-friendly, visually appealing dashboard with interactive visualizations and filtering options, enabling users to explore data at different levels of detail.
 
